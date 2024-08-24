@@ -14,7 +14,7 @@ namespace cs_start_firstCode
 
             Console.WriteLine("Ещё коммит, на проверку!");
 
-            Console.WriteLine("New Line!");
+            Console.WriteLine("New Line! Added");
         }
     }
 }
