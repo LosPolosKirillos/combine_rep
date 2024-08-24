@@ -10,10 +10,6 @@ namespace cs_start_firstCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Да здравствует разработка на C#!");
-
-            Console.WriteLine("Ещё коммит, на проверку!");
-
             Console.WriteLine("New Line! Added");
         }
     }
