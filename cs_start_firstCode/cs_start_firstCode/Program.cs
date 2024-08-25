@@ -12,5 +12,6 @@ namespace cs_start_firstCode
         {
             Console.WriteLine("Two lines removed!");
             bool a = true;
+            bool b = false;
     }
 }
