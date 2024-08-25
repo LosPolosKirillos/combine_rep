@@ -10,6 +10,7 @@ namespace cs_start_firstCode
     {
         static void Main(string[] args)
         {
+            int b = 4
             Console.WriteLine("Two lines removed!");
             int a = 5
         }
