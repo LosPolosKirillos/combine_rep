@@ -11,6 +11,6 @@ namespace cs_start_firstCode
         static void Main(string[] args)
         {
             Console.WriteLine("Two lines removed!");
-        }
+            bool a = true;
     }
 }
