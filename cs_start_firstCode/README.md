@@ -1,10 +1,18 @@
 ## Создание *первого* ***кода*** на **C#**
 ***
 #### **Task list**:
- * ##### *Изучение **Git***.
- * ##### *Паблиш кода в GitHub*
- * ##### *Создание "*Ветвей*"*
- * ##### *Полноценная **публикация** ветвей с кодами*
+ * ##### *Learning **Git***.
+ * ##### *Publish code to GitHub.*
+ * ##### *Creating of "*Branches*".*
+ * ##### *Full ***publish*** of branches with code.*
+***
+#### C# *code:*
+```
+int a = 17;
+string b = "age";
+float c = 2024f
+```
+> Coolest README document in my coding! (maybe)
 ***
 #### **Socials**:
 #### [*Telegram*](https://t.me/KirylLikhavidau)
