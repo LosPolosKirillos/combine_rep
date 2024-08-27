@@ -1,4 +1,4 @@
-## Создание *первого* ***кода*** на **C#**
+## Creating *the first* ***code*** on **C#**
 ***
 #### **Task list**:
  * ##### *Learning **Git***.
